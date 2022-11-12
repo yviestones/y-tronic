@@ -1,0 +1,86 @@
+body {
+	background-image: url("imgc/office2000x1333.jpg");
+	background-color: rgb(120, 120, 120);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+    background-position: center;
+	
+	font-size: 100%;
+	text-align: center;
+	margin: 0;
+	}
+
+h1 	{	
+	display: inline-block;
+    background-color:rgb(247, 255, 242);
+    font-family: Georgia, serif;
+	font-size: 5em;			 
+	color: MediumSeaGreen;
+	font-style: normal;
+	font-variant: normal;
+	text-align: center;
+	margin-top: 1em;
+	margin-left: 1em;
+	margin-bottom: 0.1em;
+	}
+
+h2 {
+	display: inline-block;
+    background-color:rgb(247, 255, 242);
+	font-family: Georgia, serif;
+	font-size: 3em; 				
+	color: MediumSeaGreen;
+	font-style: normal;
+	text-align: center;
+	margin-top: 1em;
+	margin-left: 1.7em;
+	}
+
+
+	
+
+	
+p   {	
+	display: inline-block;
+	background-color:rgb(234, 247, 227);
+	font-family: Georgia, serif;
+	font-size: 2.5em;
+	color: Black;
+	text-align: left;
+	border: 1px solid black;
+	border-radius: 0.3em;
+	margin-top: 3em;
+    margin-bottom: 3em;
+    margin-right: 4em;
+    margin-left: 4em;
+	padding-top: 2em;
+    padding-right: 1em;
+    padding-bottom: 2em;
+    padding-left: 2em;
+	}
+	
+	
+	
+img {
+    display: inline;
+	#margin-top: 1em;
+	margin-left: 1em;
+    #margin-bottom: 1em;
+    margin-right: 3em;
+	}
+	
+
+.foot {
+    background-color: MediumSeaGreen;
+	font-family: 'DejaVu sans', sans-serif;
+    box-shadow: 10px 10px;
+	font-size: 25px;
+	color: White;
+	text-align: left;
+	margin: 20px 100px 20px 50px;
+	padding: 5px 20px 5px 25px;
+    
+@font-face {
+    font-family: kaliso;
+    src: url(fonts/kaliso.ttf);
+    }
