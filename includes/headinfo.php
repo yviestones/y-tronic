@@ -3,7 +3,7 @@
 <head>
 
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.5">
+<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <meta name="description" content="PCB design with Passion, Altium, KI CAD, y-tronic.ch">
 
@@ -13,7 +13,7 @@
 	
 	<meta name="author" content="Yvonne Effinger">
 	<meta name="date" content="2022-10-13T08:49:37+02:00">
-	<meta http-equiv="refresh" content="100">  <!-- Browser cache loeschen nach x- Sekunden -->
+	<meta http-equiv="refresh" content="86400">  <!-- Browser cache loeschen nach x- Sekunden -->
 
 	<link rel="icon" type="image/x-icon" href="img/favyg.ico"><!-- favicon -->
 	
