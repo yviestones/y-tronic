@@ -5,13 +5,9 @@
 
 <style>
 
-img {
-  float: left;
-}
 
 body {
-		/*background-image: url("img/impossible.png");*/
-		background-image: url("img/altium1700x955.png");
+		background-image: url("img/altium2000.png");
 		background-color: rgb(120, 120, 120);
 		background-repeat: no-repeat;
 		background-attachment: fixed;

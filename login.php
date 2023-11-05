@@ -5,9 +5,7 @@
    
 <style>
 
-img {
-  float: left;
-}
+
 body {
 		background-image: url("img/schloss2200.png");
 		background-color: rgb(120, 120, 120);

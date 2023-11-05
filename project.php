@@ -5,9 +5,7 @@
 	
 <style>
 
-img {
-  float: left;
-}
+
 
 body {
 		/*background-image: url("img/impossible.png");*/

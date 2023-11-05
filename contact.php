@@ -7,9 +7,7 @@
 
 <style>
 
-img {
-  float: left;
-}
+
 body {
 		background-image: url("img/map-1252142_1920.jpg");
 		background-color: rgb(139, 105, 59);

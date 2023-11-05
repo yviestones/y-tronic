@@ -5,10 +5,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<meta name="description" content="PCB design with Passion, Altium, KI CAD, y-tronic.ch">
+<meta name="description" content="PCB design with Passion, Altium, Altium designer, KiCAD, y-tronic.ch">
 
-<meta name="keywords" content="y-tronic, y-tronic.ch www.y-tronic.ch">
+	<meta name="keywords" content="y-tronic, y-tronic.ch www.y-tronic.ch">
 	<meta name="keywords" lang="de" content="projekte realisiern, PCB-design, 3D Druck, Webseiten selber programmieren">
+	<meta name="keywords" lang="en" content="PCB design with Altium, PCB design with KiCAD, PCB design with passion">
 	<meta name="keywords" lang="en" content="Realising Projekts, Upcycling, Recyc-elec, Recycelec">
 	
 	<meta name="author" content="Yvonne Effinger">
