@@ -5,7 +5,7 @@ h1 	{
     background-color:rgb(214, 144, 75, 0.6);
 	border-radius: 0.2em;
     font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
-	font-size: 5em;			 
+	font-size: 2em;			 
 	color: rgb(17, 46, 30);
 	font-style: normal;
 	font-variant: normal;
@@ -20,7 +20,7 @@ h2 {
     background-color:rgb(247, 255, 242, 0.6);
 	border-radius: 0.2em;
 	font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
-	font-size: 3em; 				
+	font-size: 1em; 				
 	color: rgb(17, 46, 30);
 	font-style: normal;
 	text-align: center;
@@ -33,29 +33,27 @@ p   {
 	display: inline-block;
 	background-color:rgb(234, 247, 227, 0.5);
 	font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	color: rgb(17, 46, 30);
 	text-align: left;
 	border: 1px solid green;
 	border-radius: 0.6em;
-	margin-top: 3em;
+	margin-top: 1em;
     margin-bottom: 3em;
-    margin-right: 4em
+    margin-right: 4em;
     margin-left: 4em;
-	padding-top: 2em;
+	padding-top: 1em;
     padding-right: 1em;
-    padding-bottom: 2em;
+    padding-bottom: 1em;
     padding-left: 2em;
 	}
 	
 	
 	
 img {
-    display: inline;
-	#margin-top: 1em;
-	margin-left: 1em;
-    #margin-bottom: 1em;
-    margin-right: 3em;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	}
 
 .footer {
@@ -63,23 +61,16 @@ img {
 		left: 0;
 		bottom: 0;
 		width: 100%;
-		background-color: rgb(17, 46, 30);;
+		background-color: rgb(17, 32, 24);
 		color: white;
+		font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
+		font-size: 0.2em;		
 		text-align: left;
 		margin: 20px 100px 20px 50px;
 		padding: 5px 20px 5px 25px;
 	 }	
 
-/*.foot {
-    background-color: rgb(17, 46, 30);
-	font-family: 'DejaVu sans', sans-serif;
-    box-shadow: 10px 10px;
-	font-size: 25px;
-	color: White;
-	text-align: left;
-	margin: 20px 100px 20px 50px;
-	padding: 5px 20px 5px 25px;
-    */
+
 @font-face {
     font-family: kaliso;
     src: url(fonts/kaliso.ttf);

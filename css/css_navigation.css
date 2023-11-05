@@ -1,0 +1,42 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(24, 51, 37);
+  }
+  
+  li {
+    float: left;
+    border-right:2px solid #bbb;
+    border-left:2px solid #bbb;
+    border-bottom:2px solid #bbb;
+  }
+  
+  li:last-child {
+    border-right: none;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Hinzufügen der CSS-Regel für den Hover-Effekt */
+li a:hover {
+  background-color: #41836b; /* Zusätzliche Stile für den Hover-Effekt, wenn nötig */
+}
+
+
+  li a:hover:not(.active) {
+    background-color: rgb(42, 100, 70);
+  }
+  
+  .active {
+    background-color: #bbb;
+  }
+
+  

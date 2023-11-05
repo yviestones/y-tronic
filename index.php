@@ -1,13 +1,12 @@
-<?php include("./includes/headinfo.php") ?>
+<!DOCTYPE html>
 
-	<title>y-tronic.ch</title>
-	
+<?php include "includes/headinfo.php";
+?>
+
 <style>
 
-
-
 img {
-  float: right;
+  float: left;
 }
 
 body {
@@ -25,40 +24,18 @@ body {
     
 </style>
 
-</head>
+<?php include "includes/navigation.php";
+?>
 
-<body>
 
+<?php
+echo "<h1>PCB design with Altium</h1><br>\n";
+echo "<p>Your project, \n <br>my challenge
+</p>"
+?>
 
-<?php include("./includes/nav.php") ?>
+<?php include "includes/footer.php";
+?>			
     
-    
-<br>
-    <h1> PCB design with Altium </h1>
-    <br>
-    <h2>dein Elektronik-Projekt<br>
-        mein Prototyp für dich</h2>  
-		<br>
-		<h2>your electronic-project<br>
-			my Prototyp for You</h2>  
-
-
- 
-<div class="footer">
-	
-	<br>
-			<footer>
-			
-				Yvonne Effinger <br>
-				Sihlmatten 12 	<br>
-				8134 Adliswil 	<br>
-				Tel. 0041 76 749 58 36		<br>
-				e-mail: info@y-tronic.ch	<br>
-				www.y-tronic.ch <br>
-            </footer>	
-	<br>
-	
-</div>																	
-		 
 </body>
-</html>	
+</html>

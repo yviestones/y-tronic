@@ -1,16 +1,13 @@
-<?php include("./includes/headinfo.php") ?>
+<?php include "includes/headinfo.php";?>
 
 
-	<title>y-tronic.ch</title>
-	
+<title>y-tronic.ch</title>
+   
 <style>
 
-
-
 img {
-  float: right;
+  float: left;
 }
-
 body {
 		background-image: url("img/schloss2200.png");
 		background-color: rgb(120, 120, 120);
@@ -23,50 +20,21 @@ body {
 		margin: 0;
 		}
     
-</style>
+</style>   
 
-</head>
-
-<body>
-
-
+	<?php include "includes/navigation.php";
+	?>
 	
-
-
-<?php include("./includes/nav.php") ?>
-    
-   
-    
-    
-    
 <br>
     <h1>not ready jet </h1>
     <br><br>
     <br><br><br><br>
      <br><br>
-    <br><br><br><br>
-    <br><br>
-    <br><br><br><br>
-     <br><br><br><br>
-    <br><br><br><br>
+    
 
-
+	<?php include "includes/footer.php";
+	?>			
+ </body>
+			
 
  
-<div class="footer">
-	
-	<br>
-			<footer>
-				Yvonne Effinger <br>
-				Sihlmatten 12 	<br>
-				8134 Adliswil 	<br>
-				Tel. 0041 76 749 58 36		<br>
-				e-mail: info@y-tronic.ch	<br>
-				www.y-tronic.ch <br>
-            </footer>	
-	<br>
-	
-</div>																	
-		 
-</body>
-</html>	
