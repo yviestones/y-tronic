@@ -1,11 +1,8 @@
 <?php include "includes/headinfo.php";?>
 
-
 <title>y-tronic.ch</title>
 	
 <style>
-
-
 
 body {
 		/*background-image: url("img/impossible.png");*/
@@ -34,7 +31,6 @@ body {
 
     <p>ResycElec<a href="docs/ResycElecWebseite.pdf"> PDF</a>.</p>   
     <p>Technik begeistert<a href="docs/Elektronikprojekte verwirklichen.pdf"> PDF</a>.</p> 
-
  
 <?php include "includes/footer.php";
 ?>														
