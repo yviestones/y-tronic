@@ -26,7 +26,7 @@ body {
 
 <?php
 echo "<h1>PCB design with Altium</h1><br>\n";
-echo "<p>Your project, \n <br>my challenge
+echo "<p>Your project, my challenge
 </p>"
 ?>
 

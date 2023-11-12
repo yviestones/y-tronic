@@ -6,15 +6,12 @@
 <body>
 
 <style>
-
-
-body {
+	{
 		background-image: url("img/map-1252142_1920.jpg");
 		background-color: rgb(139, 105, 59);
 		background-repeat: no-repeat;
 		background-attachment: fixed;
-		background-position: center;
-		
+		background-position: center;	
 		font-size: 100%;
 		text-align: center;
 		margin: 0;

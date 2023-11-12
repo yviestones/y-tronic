@@ -1,4 +1,6 @@
-<?php include "includes/headinfo.php";?>
+
+<?php include "includes/headinfo.php";
+?>
 
 
 <title>y-tronic.ch</title>

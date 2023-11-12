@@ -57,16 +57,15 @@ img {
 	}
 
 .footer {
-		text-align: right;
+		text-align: left;
 		position: fixed;
 		left: 0;
 		bottom: 0;
 		width: 100%;
-		background-color: rgb(17, 32, 24);
+		background-color: #335f4f;
 		color: white;
 		font-family: Verdana, Geneva, Tahoma, sans-serif, serif;
-		font-size: 0.2em;		
-		text-align: center;
+		font-size: 0.6em;		
 		margin: 20px 100px 20px 50px;
 		padding: 5px 20px 5px 25px;
 	}

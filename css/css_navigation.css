@@ -3,7 +3,7 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgb(24, 51, 37);
+    background-color: rgb(36, 70, 52);
   }
   
   li {
@@ -27,7 +27,7 @@ ul {
   
   /* Hinzufügen der CSS-Regel für den Hover-Effekt */
 li a:hover {
-  background-color: #41836b; /* Zusätzliche Stile für den Hover-Effekt, wenn nötig */
+  background-color: #3c7560;
 }
 
 
